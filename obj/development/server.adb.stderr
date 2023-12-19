@@ -1,0 +1,8 @@
+server.adb:4:03: (style) bad indentation
+server.adb:5:03: (style) bad indentation
+server.adb:6:05: (style) bad indentation
+server.adb:7:03: (style) bad indentation
+server.ads:1:09: warning: unit "AWS.Response" is not referenced [-gnatwu]
+server.ads:3:09: warning: unit "AWS.Status" is not referenced [-gnatwu]
+server.ads:7:03: (style) bad indentation
+server.ads:8:03: (style) bad indentation

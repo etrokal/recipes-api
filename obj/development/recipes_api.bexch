@@ -1,0 +1,45 @@
+[GENERATED OBJECT FILE]
+b__recipes_api.o
+[PROJECT FILES]
+/home/marcelo/projects/ada/atlas/recipes_api/recipes_api.gpr
+20231218133402 643b4869d1596ccc5d9b3db45c84370b
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/ada_util_99ca46a1/.alire/curl/utilada_curl.gpr
+20231218133935 4af9c471c39d58d41040fd488fd87be5
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/aws_21.0.0_57fddf8f/install_dir/share/gpr/aws.gpr
+20231218173204 51766d475eb7e6fbeaff748c3529b568
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/utilada_base.gpr
+20231218133613 a896678c939645f7a9e335df00858729
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/utilada_core.gpr
+20231218133613 1772c3c204406ffddfe1ea0a7a7308ac
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/utilada_sys.gpr
+20231218133613 3b6834e9652b3b70c1aafe33877ddc87
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/.alire/utilada_config.gpr
+20231218133613 7289dc263514b2c85312a513a68bf66a
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/.alire/utilada_conf.gpr
+20231218133613 bb07731745761241a25749c5b189fc5a
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/utilada_aws.gpr
+20231218133613 658d53baedecfc6c9267487a99ee28f3
+/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/dotenv_1.0.0_a19c7797/dotenv.gpr
+20231218173134 67fde246eaa5228a9b9d5c1025b0e2bd
+/home/marcelo/projects/ada/atlas/recipes_api/config/recipes_api_config.gpr
+20231218173204 b1e061e51074bd0874fb83e508dc7cce
+[BOUND OBJECT FILES]
+/home/marcelo/projects/ada/atlas/recipes_api/obj/development/recipes_api.o
+[GENERATED SOURCE FILES]
+b__recipes_api.ads
+b__recipes_api.adb
+b__recipes_api.ali
+[RESULTING OPTIONS]
+-L/home/marcelo/projects/ada/atlas/recipes_api/obj/development/
+-L/home/marcelo/projects/ada/atlas/recipes_api/obj/development/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/dotenv_1.0.0_a19c7797/lib/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/lib/utilada_aws/static/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/lib/utilada_sys/static/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/utilada_2.6.0_99ca46a1/lib/utilada_core/static/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/aws_21.0.0_57fddf8f/install_dir/lib/aws.static/
+-L/home/marcelo/projects/ada/atlas/recipes_api/alire/cache/dependencies/ada_util_99ca46a1/lib/utilada_curl/static/
+-L/home/marcelo/.config/alire/cache/dependencies/gnat_native_13.2.1_788a01f9/lib/gcc/x86_64-pc-linux-gnu/13.2.0/adalib/
+-static
+-static-libgcc
+/home/marcelo/.config/alire/cache/dependencies/gnat_native_13.2.1_788a01f9/lib/gcc/x86_64-pc-linux-gnu/13.2.0/adalib/libgnat.a
+-ldl

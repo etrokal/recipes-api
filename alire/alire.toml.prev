@@ -1,0 +1,17 @@
+name = "recipes_api"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Your Name"]
+maintainers = ["Your Name <example@example.com>"]
+maintainers-logins = ["github-username"]
+
+executables = ["recipes_api"]
+[[depends-on]]
+utilada = "^2.6.0"
+[[depends-on]]
+utilada_aws = "^2.5.0"
+[[depends-on]]
+utilada_curl = "^2.6.0"
+[[depends-on]]
+dotenv = "^1.0.0"

@@ -1,0 +1,3 @@
+cannot generate code for file server-router.ads (package spec)
+server-router.ads:1:09: warning: unit "AWS.Server" is not referenced [-gnatwu]
+server-router.ads:5:03: (style) bad indentation
